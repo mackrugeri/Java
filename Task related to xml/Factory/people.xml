@@ -1,0 +1,12 @@
+<?xml version = "1.0"?>
+<people>
+	<people id = "1">
+		<lastname> "Doe"</lastname>
+		<firstname>"John" </firstname>
+	</people>
+	<people id = "2">
+		<lastname>"Smith" </lastname>
+		<firstname>"jim" </firstname>
+	</people>
+
+</people>
